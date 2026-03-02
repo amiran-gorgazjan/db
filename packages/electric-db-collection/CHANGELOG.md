@@ -1,5 +1,11 @@
 # @tanstack/electric-db-collection
 
+## 0.2.38
+
+### Patch Changes
+
+- fix(electric-db-collection): Upgrade to latest electric client version ([#1321](https://github.com/TanStack/db/pull/1321))
+
 ## 0.2.37
 
 ### Patch Changes

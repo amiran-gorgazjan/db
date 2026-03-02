@@ -1,5 +1,13 @@
 # @tanstack/react-db
 
+## 0.1.75
+
+### Patch Changes
+
+- fix(react-db): make getNextPageParam optional in useLiveInfiniteQuery ([#1268](https://github.com/TanStack/db/pull/1268))
+
+- fix(react-db): handle rejected/stale setWindow promises in useLiveInfiniteQuery ([#1269](https://github.com/TanStack/db/pull/1269))
+
 ## 0.1.74
 
 ### Patch Changes

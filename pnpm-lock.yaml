@@ -211,7 +211,7 @@ importers:
         specifier: ^1.0.27
         version: link:../../../packages/query-db-collection
       '@tanstack/react-db':
-        specifier: ^0.1.74
+        specifier: ^0.1.75
         version: link:../../../packages/react-db
       '@tanstack/react-query':
         specifier: ^5.90.20
@@ -284,7 +284,7 @@ importers:
         specifier: ^1.0.27
         version: link:../../../packages/query-db-collection
       '@tanstack/react-db':
-        specifier: ^0.1.74
+        specifier: ^0.1.75
         version: link:../../../packages/react-db
       '@tanstack/react-query':
         specifier: ^5.90.20
@@ -348,7 +348,7 @@ importers:
         specifier: ^0.5.30
         version: link:../../../packages/db
       '@tanstack/react-db':
-        specifier: ^0.1.74
+        specifier: ^0.1.75
         version: link:../../../packages/react-db
       mitt:
         specifier: ^3.0.1
@@ -388,7 +388,7 @@ importers:
         specifier: ^1.0.27
         version: link:../../../packages/query-db-collection
       '@tanstack/react-db':
-        specifier: ^0.1.74
+        specifier: ^0.1.75
         version: link:../../../packages/react-db
       '@tanstack/react-router':
         specifier: ^1.159.5
@@ -518,7 +518,7 @@ importers:
   examples/react/todo:
     dependencies:
       '@tanstack/electric-db-collection':
-        specifier: ^0.2.37
+        specifier: ^0.2.38
         version: link:../../../packages/electric-db-collection
       '@tanstack/query-core':
         specifier: ^5.90.20
@@ -527,7 +527,7 @@ importers:
         specifier: ^1.0.27
         version: link:../../../packages/query-db-collection
       '@tanstack/react-db':
-        specifier: ^0.1.74
+        specifier: ^0.1.75
         version: link:../../../packages/react-db
       '@tanstack/react-router':
         specifier: ^1.159.5
@@ -639,7 +639,7 @@ importers:
   examples/solid/todo:
     dependencies:
       '@tanstack/electric-db-collection':
-        specifier: ^0.2.37
+        specifier: ^0.2.38
         version: link:../../../packages/electric-db-collection
       '@tanstack/query-core':
         specifier: ^5.90.20
